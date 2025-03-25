@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menuBar {
+    height: 7%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(61, 117, 220);
+}
+
+.menuLink {
+    color: black;
+    font-size: 25px;
+}
+
+.pageTitle {
+    color: white;
+    padding-top: 12px;
+}
+
+.button {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 15%;
+}
+
+button:hover {
+    background-color: rgb(61, 117, 220);
+}
+
+button:hover > a {
+    color: white;
+}
+
+ul, li {
+    font-size: 20px;
+}
+
+a {
+    color:rgb(61, 117, 220);
+    text-decoration: none;
+}
