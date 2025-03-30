@@ -42,3 +42,9 @@ a {
     color:rgb(61, 117, 220);
     text-decoration: none;
 }
+
+table, tr, th, td {
+    border: 1px solid black;
+    text-align: center;
+    width: 30%;
+}
